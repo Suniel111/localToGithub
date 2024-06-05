@@ -7,4 +7,5 @@ step 4. create github repo from your github profile without README.md file
 step 5. run command "git remote add origin 'create repo link'"
 step 6. to check your remote run command "git remote -v"
 step 7. to check your branch run command "git branch"
-step 8.
+step 8. run command "git pudh origin main"
+step 9. if you want to push all the file in the same branch than run command "git push -u origin main" after doing this next time you'll only have to run command "git push -u" instead of "git push origin main", the command "git push -u origin main" will main the branch origin the defalt branch untill you change it.
